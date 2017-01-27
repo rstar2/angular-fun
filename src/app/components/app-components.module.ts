@@ -6,6 +6,7 @@ import { DnDComponent } from "./dnd/dnd.component";
 import { DrawComponent } from "./draw/draw.component";
 import { PageNotFoundComponent } from "./page-not-found/page-not-found.component";
 import { LineComponent } from './draw/line.component';
+import { AnimateBallComponent } from "./tweenmax/animate-ball.component";
 
 
 const COMPONENTS = [
@@ -13,6 +14,7 @@ const COMPONENTS = [
   DnDComponent,
   DrawComponent,
   LineComponent,
+  AnimateBallComponent,
   PageNotFoundComponent
 ];
 
